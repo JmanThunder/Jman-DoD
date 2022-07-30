@@ -1,0 +1,6 @@
+name = "Jman's Divergences of Darkness"
+path = "mod/jDoD"
+user_dir = "jDoD"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history/provinces"
